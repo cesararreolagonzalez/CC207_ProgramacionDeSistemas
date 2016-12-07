@@ -1,0 +1,33 @@
+0FFF|NULL|ORG|$0fff|Error
+0FFF|NULL|XGDY|NULL|Inherente de 2 bytes
+1001|NULL|SUBD|3|Directo, 2 bytes
+1003|NULL|SUBD|@3|Directo, 2 bytes
+1005|NULL|SUBD|%111|Directo, 2 bytes
+1007|NULL|SUBD|$3|Directo, 2 bytes
+1009|NULL|SUBD|300|Extendido, 3 bytes
+100C|NULL|SUBD|34444|Extendido, 3 bytes
+100F|NULL|SUBD|Et2_x|Error
+1012|AL1|SUBD|$FFF|Extendido, 3 bytes
+1015|NULL|SUBD|#3|Inmediato de 16 bits, 3 bytes
+1018|NULL|SUBD|#@3|Inmediato de 16 bits, 3 bytes
+101B|NULL|SUBD|#%1111|Inmediato de 16 bits, 3 bytes
+101E|NULL|SUBD|1,X|Indizado de 5 Bits, 2 bytes
+1020|NULL|SUBD|,PC|Indizado de 5 Bits, 2 bytes
+1022|NULL|SUBD|255,y|Indizado de 9 Bits, 3 bytes
+1025|NULL|SUBD|32768,sp|Indizado de 16 Bits, 4 bytes
+1029|NULL|SUBD|-10,Y|Indizado de 5 Bits, 2 bytes
+102B|NULL|SUBD|-250,SP|Indizado de 9 Bits, 3 bytes
+102E|NULL|SUBD|1,+SP|Indizado de Pre Incremento, 2 bytes
+1030|NULL|SUBD|7,X+|Indizado de Post Incremento, 2 bytes
+1032|NULL|SUBD|5,-SP|Indizado de Pre Decremento, 2 bytes
+1034|AL2|SUBD|5,Y-|Indizado de Post Decremento, 2 bytes
+1036|NULL|SUBD|A,pc|Indizado de Acumulador, 2 bytes
+1038|NULL|SUBD|254,X|Indizado de 9 Bits, 3 bytes
+103B|NULL|SUBD|64444,Y|Indizado de 16 Bits, 4 bytes
+103F|NULL|SUBD|[1,SP]|Indizado Indirecto de 16 Bits, 4 bytes
+1043|NULL|SUBD|[64444,PC]|Indizado Indirecto de 16 Bits, 4 bytes
+1047|NULL|SUBD|[D,SP]|Indizado de Acumulador Indirecto, 2 bytes
+1049|NULL|LBVS|Et1_1|Relativo de 16 bits, 4 bytes
+104D|NULL|BVS|Et1_3|Relativo de 8 bits, 2 bytes
+104F|NULL|SBCA|#8|Inmediato de 8 bits, 2 bytes
+1051|NULL|END|NULL|Error

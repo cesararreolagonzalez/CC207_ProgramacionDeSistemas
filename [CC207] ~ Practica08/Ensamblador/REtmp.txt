@@ -1,0 +1,6 @@
+0000|NULL|ORG|$0|Error
+0000|UNO|DS|10|Error
+000A|NULL|BRA|UNO|Relativo de 8 bits, 2 bytes
+000C|DOS|DS|4096|Error
+100C|NULL|LBRA|DOS|Relativo de 16 bits, 4 bytes
+1010|NULL|END|NULL|Error

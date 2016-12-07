@@ -1,0 +1,67 @@
+000F|NULL|ORG|$F|ORG
+FFFF|Et1|equ|$ffFF|EQU
+000F|dos|LDAA|@4732|Extendido, 3 bytes
+0012|NULL|SWI|NULL|Inherente, 1 bytes
+0013|NULL|DS.b|%0011000011111100|Directiva
+310F|NULL|LDAA|,X|Indizado de 5 Bits, 2 bytes
+3111|NULL|LDAA|0,X|Indizado de 5 Bits, 2 bytes
+3113|NULL|LDAA|1,X|Indizado de 5 Bits, 2 bytes
+3115|NULL|LDAA|15,X|Indizado de 5 Bits, 2 bytes
+3117|NULL|LDAA|-1,X|Indizado de 5 Bits, 2 bytes
+3119|NULL|LDAA|-16,X|Indizado de 5 Bits, 2 bytes
+311B|NULL|STAB|-8,Y|Indizado de 5 Bits, 2 bytes
+311D|tres|sWI|NULL|Inherente, 1 bytes
+311E|Et12_xyz123|ADCA|1,PC|Indizado de 5 Bits, 2 bytes
+3120|%ET2|LDAA|#$90|Inmediato de 8 bits, 2 bytes
+3122|Netq%23|RMB|556|Directiva
+334E|ABA|LDAA|#50|Inmediato de 8 bits, 2 bytes
+3350|asd|LDAA|#$55|Inmediato de 8 bits, 2 bytes
+3352|ABA|LDAA|25|Directo, 2 bytes
+3354|ABA|LDAA|@17|Directo, 2 bytes
+3356|ABA|LDAA|$AF|Directo, 2 bytes
+3358|ABA|LDAA|%101|Directo, 2 bytes
+335A|ABA|LDAA|50000|Extendido, 3 bytes
+335D|NULL|CPY|ALGO|Relativo de 8 bits, 2 bytes
+335F|NULL|LBCC|ALGO|Relativo de 8 bits, 2 bytes
+3361|NULL|cpy|[10,X]|Indizado Indirecto de 16 Bits, 4 bytes
+3365|NULL|cpy|[65535,PC]|Indizado Indirecto de 16 Bits, 4 bytes
+3369|NULL|cpy|-16,X|Indizado de 5 Bits, 2 bytes
+336B|NULL|cpy|-256,X|Indizado de 9 Bits, 3 bytes
+336E|NULL|cpy|65535,X|Indizado de 16 Bits, 4 bytes
+3372|NULL|cpy|,sp|Indizado de 5 Bits, 2 bytes
+3374|NULL|cpy|B,sp|Indizado de Acumulador, 2 bytes
+3376|NULL|cpy|8,+X|Indizado de Pre Incremento, 2 bytes
+3378|NULL|cpy|8,X+|Indizado de Post Incremento, 2 bytes
+337A|NULL|cpy|8,-X|Indizado de Pre Decremento, 2 bytes
+337C|NULL|cpy|8,X-|Indizado de Post Decremento, 2 bytes
+337E|NULL|db|100|Directiva
+337F|NULL|RMW|1000|Directiva
+3B4F|NULL|db|$3C|Directiva
+3B50|xyz|dc.b|@36|Directiva
+3B51|NULL|fcb|36|Directiva
+3B52|NULL|dc.b|%111000|Directiva
+3B53|xyz_2|dw|360|Directiva
+3B55|NULL|DW|$3C|Directiva
+3B57|NULL|DC.W|%111000|Directiva
+3B59|NULL|FDB|@36|Directiva
+3B5B|NULL|FDB|5460|Directiva
+3B5D|NULL|DC.W|5460|Directiva
+3B5F|XYZ_2|FCC|"Hola"|Directiva
+3B63|NULL|fcc|"h"|Directiva
+3B64|NULL|fcc|"Cel. 333 444 66 78"|Directiva
+3B76|NULL|fcc|"%#;z acivo"|Directiva
+3B80|NULL|fcc|"Centro Universitario de Ciencias Exactas E Ingenieria"|Directiva
+3BB5|NULL|fcc|""""""|Directiva
+3BB9|NULL|fcc|""|Directiva
+3BB9|NULL|DS|@36|Directiva
+3BD7|XYZ|Ds.B|36|Directiva
+3BFB|NULL|RMB|$36|Directiva
+3C31|NULL|ds|%110011|Directiva
+3C64|abc|rmw|@36|Directiva
+3CA0|NULL|dS.W|36|Directiva
+3CE8|NULL|rmw|$36|Directiva
+3D54|NULL|ds.w|%110011|Directiva
+3DBA|NULL|dc.w|260|Directiva
+3DBC|NULL|ds.w|260|Directiva
+3FC4|NULL|ds|260|Directiva
+40C8|NULL|End|NULL|END

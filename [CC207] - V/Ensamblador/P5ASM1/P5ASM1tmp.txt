@@ -1,0 +1,9 @@
+0000|NULL|ORG|$0|ORG
+0000|NULL|LDAA|255,X|Indizado de 9 Bits, 3 bytes
+0003|NULL|LDAA|34,X|Indizado de 9 Bits, 3 bytes
+0006|NULL|LDAA|-12,Y|Indizado de 5 Bits, 2 bytes
+0008|NULL|LDAA|-18,X|Indizado de 9 Bits, 3 bytes
+000B|NULL|LDAA|-256,X|Indizado de 9 Bits, 3 bytes
+000E|NULL|LDAA|-20,Y|Indizado de 9 Bits, 3 bytes
+0011|NULL|LDAA|31483,X|Indizado de 16 Bits, 4 bytes
+0015|NULL|END|NULL|END

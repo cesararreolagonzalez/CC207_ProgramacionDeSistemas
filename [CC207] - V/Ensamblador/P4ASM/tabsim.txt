@@ -1,0 +1,17 @@
+Et1|FFFF
+dos|000F
+tres|311D
+cuatro|311E
+Et12_xyz123|311E
+%ET2|3120
+Netq%23|3122
+etv1|334E
+XYZ|334E
+%XYZ|334E
+Abc|334E
+ABA|334E
+asd|3350
+A|337E
+xyz_1|3B53
+xyz_2|3B53
+abc_d|40C8

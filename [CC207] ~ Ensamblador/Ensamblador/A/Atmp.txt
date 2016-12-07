@@ -1,0 +1,23 @@
+1000|NULL|ORG|$1000|ORG
+1000|NULL|ADCA|[0,X]|Indizado Indirecto de 16 Bits
+1004|NULL|ADCA|[0,Y]|Indizado Indirecto de 16 Bits
+1008|NULL|ADCA|[0,SP]|Indizado Indirecto de 16 Bits
+100C|NULL|ADCA|[0,PC]|Indizado Indirecto de 16 Bits
+1010|NULL|SWI|NULL|Inherente
+1011|NULL|DS.B|$20|Directiva de reserva
+1031|NULL|ADCA|[0,X]|Indizado Indirecto de 16 Bits
+1035|NULL|ADCA|[0,Y]|Indizado Indirecto de 16 Bits
+1039|NULL|ADCA|[0,PC]|Indizado Indirecto de 16 Bits
+103D|NULL|FCC|"abcde"|Directiva de constante
+1042|NULL|SWI|NULL|Inherente
+1043|NULL|DS.B|$1|Directiva de reserva
+1044|NULL|SWI|NULL|Inherente
+1045|NULL|DS.B|$1|Directiva de reserva
+1046|NULL|SWI|NULL|Inherente
+1047|NULL|SWI|NULL|Inherente
+1048|NULL|SWI|NULL|Inherente
+1049|NULL|SWI|NULL|Inherente
+104A|NULL|SWI|NULL|Inherente
+104B|NULL|DS.B|$1|Directiva de reserva
+104C|NULL|FCC|"abcde"|Directiva de constante
+1051|NULL|END|NULL|END

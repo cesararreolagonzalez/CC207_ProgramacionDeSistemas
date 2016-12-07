@@ -1,0 +1,26 @@
+0001|Pri|equ|1|EQU
+0002|Seg|equ|2|EQU
+0003|Ter|equ|3|EQU
+0004|Cua|equ|4|EQU
+00FF|NULL|Org|255|ORG
+00FF|Et|Ds.b|5|Directiva de reserva
+0000|Otra|Equ|0|EQU
+0104|NULL|Swi|NULL|Inherente
+0105|NULL|Ds.w|5|Directiva de reserva
+0005|Qui|equ|5|EQU
+010F|NULL|Swi|NULL|Inherente
+0008|Sex|equ|8|EQU
+0110|Sep|Swi|NULL|Inherente
+0008|Oct|equ|8|EQU
+0111|NULL|Ldaa|3|Directo
+0113|NULL|Ldaa|Sep|Extendido, Etiqueta
+0116|NULL|Ds.b|3|Directiva de reserva
+0119|NULL|Ldaa|3|Directo
+0009|Nov|equ|9|EQU
+011B|NULL|Swi|NULL|Inherente
+011C|NULL|Dc.b|2|Directiva de constante
+000A|Dec|equ|10|EQU
+000B|Onc|equ|11|EQU
+000D|Tre|equ|13|EQU
+011D|NULL|Ds.b|1|Directiva de reserva
+011E|NULL|End|NULL|END

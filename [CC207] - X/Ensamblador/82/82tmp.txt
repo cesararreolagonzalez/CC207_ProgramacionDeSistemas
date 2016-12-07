@@ -1,0 +1,8 @@
+0000|NULL|ORG|@0000|ORG
+0000|NULL|FCB|1|Directiva de constante
+0001|NULL|DS|$9|Directiva de reserva
+000A|NULL|BMI|SUNO|Relativo de 8 bits
+000C|SDOS|RMW|2048|Directiva de reserva
+0000|SUNO|EQU|$0|EQU
+100C|NULL|LBMI|SDOS|Relativo de 16 bits
+1010|NULL|END|NULL|END

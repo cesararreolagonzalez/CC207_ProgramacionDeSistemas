@@ -1,0 +1,8 @@
+0000|NULL|ORG|$0|Error
+0000|NULL|LDAA|[10,X]|Indizado Indirecto de 16 Bits, 4 bytes
+0004|NULL|LDAA|[31483,X]|Indizado Indirecto de 16 Bits, 4 bytes
+0008|NULL|ADCA|[D,PC]|Indizado de Acumulador Indirecto, 2 bytes
+000A|NULL|ADCA|[D,X]|Indizado de Acumulador Indirecto, 2 bytes
+000C|NULL|ADCB|[D,SP]|Indizado de Acumulador Indirecto, 2 bytes
+000E|NULL|ADDA|[D,Y]|Indizado de Acumulador Indirecto, 2 bytes
+0010|NULL|END|NULL|Error

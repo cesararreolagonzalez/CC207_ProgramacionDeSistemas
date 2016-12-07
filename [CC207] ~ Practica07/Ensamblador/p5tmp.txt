@@ -1,0 +1,14 @@
+0000|NULL|ORG|0|Error
+0000|NULL|ABA|NULL|Inherente, 2 bytes
+0002|NULL|BGND|NULL|Inherente, 1 bytes
+0003|NULL|LDAA|85|Directo, 2 bytes
+0005|NULL|LDAA|$0055|Directo, 2 bytes
+0007|NULL|LDX|$20|Directo, 2 bytes
+0038|VALOR1|EQU|$38|Error
+0009|NULL|LDAA|@777|Extendido, 3 bytes
+000C|NULL|LDAA|$FFFF|Extendido, 3 bytes
+000F|NULL|LDAA|VALOR1|Extendido, 3 bytes
+0012|NULL|LDAA|#$55|Inmediato de 8 bits, 2 bytes
+0014|NULL|LDX|#$1234|Inmediato de 16 bits, 3 bytes
+0017|NULL|LDY|#%1100111|Inmediato de 16 bits, 3 bytes
+001A|NULL|END|NULL|Error

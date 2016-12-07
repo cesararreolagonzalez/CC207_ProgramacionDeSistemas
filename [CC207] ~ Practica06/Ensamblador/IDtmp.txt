@@ -1,0 +1,9 @@
+0000|NULL|ORG|$0|Error
+0000|NULL|STAA|1,-SP|Indizado de Pre Decremento, 3 bytes
+0003|NULL|STAA|1,SP-|Indizado de Post Decremento, 3 bytes
+0006|NULL|STX|2,SP+|Indizado de Post Incremento, 3 bytes
+0009|NULL|STX|2,+SP|Indizado de Pre Incremento, 3 bytes
+000C|NULL|LDAA|B,X|Indizado de Acumulador, 2 bytes
+000E|NULL|LDAA|A,X|Indizado de Acumulador, 2 bytes
+0010|NULL|LDAA|D,X|Indizado de Acumulador, 2 bytes
+0012|NULL|END|NULL|Error

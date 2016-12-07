@@ -1,0 +1,6 @@
+;comentario numero 1 =TALLER=
+	ORG	$AB
+Et1     SWI
+	ADCA    1,X
+        BRA  	Et1
+  	End

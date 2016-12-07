@@ -1,0 +1,7 @@
+0033|en1|equ|$33|EQU
+0012|en2|equ|@22|EQU
+0000|NULL|org|%0|ORG
+0016|en3|equ|22|EQU
+1000|en4|equ|4096|EQU
+00AB|en5|equ|$ab|EQU
+0000|NULL|end|NULL|END

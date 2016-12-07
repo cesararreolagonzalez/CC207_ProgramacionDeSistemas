@@ -1,0 +1,7 @@
+XYZ	XYZ	abc
+	DAA
+E1	DEX
+	CMPA 	Abc
+e_2	LBVC	xyz
+	BHI	hola
+	end

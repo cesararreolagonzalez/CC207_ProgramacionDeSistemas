@@ -1,0 +1,4 @@
+0000|NULL|ORG|0|ORG
+0000|NULL|DS.B|1|Directiva de reserva
+0001|NULL|RMW|2|Directiva de reserva
+0005|NULL|END|NULL|END

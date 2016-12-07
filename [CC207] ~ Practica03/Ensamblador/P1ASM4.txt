@@ -1,0 +1,112 @@
+;comentario número 1 =TALLER=
+	ORG	%00001111
+Et1	equ	$ffFF
+dos	LDAA	@4732
+	SWI
+	DS.b	%0011000011111100
+;comentario numero 2 ¡Programación!
+;comentario numero 3 FCC	"Taller de Programación de Sistemas"
+tres	sWI
+cuatro				cinco seis
+Et12_xyz123	ADCA	1,PC
+%ET2	LDAA	#$90
+Netq%23	RMB	556
+etv1
+XYZ	Ldaaxyz	4
+%XYZ
+	a.c.	%1111000                     
+	LEBQ	,
+	LEBQ	algo,a
+Abc	SWI%
+ABA	LDAA	#%
+ABA	LDAA	#$
+ABA	LDAA	#&1
+ABA	LDAA	#@
+ABA	LDAA	#
+ABA	LDAA	#256
+ABA	LDAA	#255a
+ABA	LDAA	25
+ABA	LDAA	@17
+ABA	LDAA	$AF
+ABA	LDAA	%101
+ABA	LDAA	@
+ABA	LDAA	$
+ABA	LDAA	%
+ABA	LDAA	50000
+	CPY	ALGO
+	LBCC	ALGO
+	CPY	ALGO.1
+	LBCC	ALGO.1
+	cpy	,]
+	cpy	[10,X
+	cpy	[,]
+	cpy	[a,X]
+	cpy	[%asdasd#a"&,X]
+	cpy	[10,X]
+	cpy	[&,sX],a
+	cpy	[&,X],a
+	cpy	[10,X],a
+	cpy	[]
+	cpy	[D,10,X]
+	cpy	[D,10,X
+	cpy	[D,x,10
+	cpy	[D,&,%
+	cpy	[d,a],PC
+	cpy	[d,PC],a
+	cpy	[80000,PC]
+	cpy	[65535,PC]
+	cpy	[65535,M]
+	cpy	[80000,M]
+	cpy	[10,SP
+	cpy	9,0
+	cpy	,
+	cpy	-16,X
+	cpy	-256,X
+	cpy	65535,X
+	cpy	,sp
+	cpy	80000,sp
+	cpy	-80000,sp
+	cpy	@w,sp
+	cpy	@10,sp
+	cpy	B,sp
+	cpy	--256,X
+	cpy	9,+X
+	cpy	60000,X,S
+	
+	cpy	8,+X
+	cpy	8,X+
+	cpy	9,+X
+	cpy	9,X+
+	cpy	8,+s
+	cpy	8,s+
+
+	cpy	8,-X
+	cpy	8,X-
+	cpy	9,-X
+	cpy	9,X-
+	cpy	8,-s
+	cpy	8,s-
+	
+	cpy	8,+-X-+
+	cpy	8,++X	
+	cpy	8,X--
+	CPY	9,+SPS
+	CPY	#
+	CPY	@
+	SWI	A	
+	SWI	#36
+	CPY	+
+	CPY	+3
+	CPY	&
+	CPY	&@10
+A	STAB	#36	
+	BEQ 	#36
+	LDAA	#$M436
+	LDAA	#@M436
+	LDAA	#%M436
+	ADCA	1,X]
+	ADCA	1,XP+
+	ADCA	1,X#
+	ADCA	1,X CUCEI
+	ADCA 	1$
+	End

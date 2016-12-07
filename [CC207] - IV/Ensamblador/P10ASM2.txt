@@ -1,0 +1,29 @@
+Pri	equ	1
+Seg	equ	2
+;comentario uno
+Ter 	equ	3
+;Comentario dos
+Cua	equ	4
+	ORG	255
+Et	DS.B	5
+Otra	Equ	0
+	SWI
+	DS.W	5
+Qui	equ	5
+	swi
+Sex	equ	6
+Sep	SWI
+Oct	EQU	8
+	LDAA	3
+	LDAA	Sep
+	DS.B	3
+	LDAA	3
+Nov	EQU	9
+	SWI
+	DC.B	2
+;comentario tres
+Dec	equ	10
+Onc	equ	11
+Tre	equ	13
+	DS.B	1
+	END

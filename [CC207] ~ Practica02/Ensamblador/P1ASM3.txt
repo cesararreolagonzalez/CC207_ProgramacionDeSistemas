@@ -1,0 +1,25 @@
+abcxyzabcxy
+%abc             ldaa   1,x
+abc%c% 		 abc  	34
+xx_34x 		 abc    #$fc
+	         xyzxyz 250
+  	       	_abc    350
+ab9_9 	         x.y.z
+abc 	         x_ab
+a 	         x% 	34
+a.x 	         x	34
+;comentario no.1
+;comentario no.2
+;comentario no.3
+ 	 XGDY            #63
+Abc 	Abc 		   	 Abc
+en_3          abc	 34
+ 	  xyz
+xyz     a.bc
+         x.yz       	#34
+;comentario no.4
+;comentario no.5
+	   adca             xyz abc xyz
+	   xyz
+abc        xyz
+                      end

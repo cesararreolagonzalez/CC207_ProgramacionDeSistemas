@@ -1,0 +1,14 @@
+;comentario numero 1 =TALLER=
+        ORG           %00001111
+Et1     equ           $ffFF
+dos     LDAA          @4732
+        SWI
+XYZ	a.b..	      $ab
+        DS.b          %0011000011111100
+; comentario numero 2 ¡Programacion!
+; comentario numero 3 
+        FCC          "Taller de Programacion de Sistemas"
+tres    sWi	      @123
+	End
+	Algo
+Otra	cosa	adsad

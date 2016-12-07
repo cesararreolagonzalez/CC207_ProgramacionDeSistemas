@@ -1,0 +1,7 @@
+	ORG	$0
+	DW	4096
+	DB	15
+	DW	65536
+	DB	4096
+	FCC	"hola mundo"
+	END

@@ -1,0 +1,7 @@
+;comentario no. 1
+	XYZ	XYZ
+E1	DAA
+	BITA	123
+	BLE	XYZ
+;comentario no. 2
+	end

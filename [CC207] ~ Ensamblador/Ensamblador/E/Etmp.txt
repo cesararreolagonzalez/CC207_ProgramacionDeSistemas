@@ -1,0 +1,40 @@
+0015|UNO_1|EQU|%010101|EQU
+00E5|DOS_2|EQU|@345|EQU
+AB39|TRES_3|EQU|$AB39|EQU
+00E6|NULL|ORG|@346|ORG
+00E6|NULL|SBA|NULL|Inherente
+00E8|NULL|ORAB|#%0101|Inmediato de 8 bits
+00EA|CUATRO_4|LDS|#$CF|Inmediato de 16 bits
+00ED|NULL|LDAB|189|Directo
+1111|CUATRO41|EQU|$1111|EQU
+00EF|CINCO_5|EORB|@165304|Extendido
+00F2|NULL|CMPB|DOS_2|Extendido, Etiqueta
+00F5|NULL|LBMI|NUEVE_9|Relativo de 16 bits
+00F9|NULL|FCB|@47|Directiva de constante
+00FA|SEIS_6|FDB|25876|Directiva de constante
+00FC|NULL|FCC|"Centro Universitario"|Directiva de constante
+1CCC|SIETE_7|EQU|%1110011001100|EQU
+0110|NULL|BITB|5,X|Indizado de 5 Bits
+0112|NULL|BITB|-5,Y|Indizado de 5 Bits
+0114|SIETE_71|RMB|15|Directiva de reserva
+0123|NULL|BITB|155,PC|Indizado de 9 Bits
+0126|NULL|BITB|-155,SP|Indizado de 9 Bits
+1A85|OCHO_8|EQU|6789|EQU
+0129|NULL|RMW|%1010|Directiva de reserva
+013D|NUEVE_9|BITB|15500,Y|Indizado de 16 Bits
+0141|NULL|BITB|5,X+|Indizado de Post Incremento
+0143|NULL|BITB|5,+Y|Indizado de Pre Incremento
+0145|NULL|ANDA|3,SP+|Indizado de Post Incremento
+0015|NUEVE_91|EQU|21|EQU
+0016|NUEVE_92|EQU|22|EQU
+0147|NULL|ANDA|3,-SP|Indizado de Pre Decremento
+0149|NULL|BHS|CINCO_5|Relativo de 8 bits
+014B|DIEZ_10|DS.B|$90|Directiva de reserva
+01DB|NULL|RMW|20|Directiva de reserva
+0203|NULL|ANDA|B,PC|Indizado de Acumulador
+0011|ONCE_11|EQU|$11|EQU
+0205|NULL|ANDA|[150,PC]|Indizado Indirecto de 16 Bits
+0209|NULL|ANDA|[D,PC]|Indizado de Acumulador Indirecto
+020B|NULL|DS.W|20|Directiva de reserva
+0233|NULL|FDIV|NULL|Inherente
+0235|DOCE_12|END|NULL|END

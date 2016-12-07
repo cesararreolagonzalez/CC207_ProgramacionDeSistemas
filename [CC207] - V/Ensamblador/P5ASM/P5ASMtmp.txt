@@ -1,0 +1,17 @@
+0000|NULL|ORG|$0|ORG
+0000|NULL|ABA|NULL|Inherente, 2 bytes
+0002|NULL|BGND|NULL|Inherente, 1 bytes
+0003|NULL|LDAA|$55|Directo, 2 bytes
+0005|NULL|LDAA|$0055|Directo, 2 bytes
+0007|NULL|LDX|$20|Directo, 2 bytes
+0009|NULL|LDAA|85|Directo, 2 bytes
+000B|NULL|LDAA|@125|Directo, 2 bytes
+000D|NULL|LDAA|%1010101|Directo, 2 bytes
+000F|NULL|LDAA|5|Directo, 2 bytes
+0011|NULL|LDX|2|Directo, 2 bytes
+0013|NULL|LDAA|$1FF|Extendido, 3 bytes
+0016|NULL|LDAA|$FFFF|Extendido, 3 bytes
+0019|NULL|LDAA|#$55|Inmediato de 8 bits, 2 bytes
+001B|NULL|LDX|#$1234|Inmediato de 16 bits, 3 bytes
+001E|NULL|LDY|#$67|Inmediato de 16 bits, 3 bytes
+0021|NULL|END|NULL|END

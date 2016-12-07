@@ -1,0 +1,8 @@
+	ORG	$0
+	LDAA	[10,X]
+	LDAA 	[31483,X]
+	ADCA	[D,PC]
+	ADCA	[D,X]
+	ADCB	[D,SP]
+	ADDA	[D,Y]
+	END

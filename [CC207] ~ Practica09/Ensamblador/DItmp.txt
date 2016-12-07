@@ -1,0 +1,7 @@
+0000|NULL|ORG|$0|Error
+0000|NULL|DW|4096|Directiva
+0002|NULL|DB|15|Directiva
+0003|NULL|DW|65536|Error
+0005|NULL|DB|4096|Error
+0006|NULL|FCC|"hola mundo"|Directiva
+0010|NULL|END|NULL|Error
